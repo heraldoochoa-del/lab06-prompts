@@ -14,7 +14,7 @@ Herramienta de IA usada: Gemini
 | The students program in Java. | 30 | 6 |
 | desafortunadamente | 18 | 6 |
 
-### 6. Explicación de la ventana de contexto
+### Explicación de la ventana de contexto
 
 - **Dentro del mismo chat (Paso 4):** La IA respondió correctamente que la aplicación se llama TiendaTec y usa Java Swing porque la información formaba parte del historial guardado en su ventana de contexto activa.
 - **En un chat nuevo (Paso 5):** La IA no pudo responder o indicó no tener esa información, ya que un chat nuevo inicia con la ventana de contexto completamente limpia y sin acceso a mensajes de otras sesiones.
